@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="49cm" height="24cm" viewBox="130 246 961 475" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="193.002" y="247" width="72.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="193.002" y="247" width="72.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="229.402" y="267">Storage</text>
+    <rect style="fill: #ffffff" x="193.002" y="275" width="72.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="193.002" y="275" width="72.8" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="195.502" y="288.2"> address</text>
+    <rect style="fill: #ffffff" x="193.002" y="295" width="72.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="193.002" y="295" width="72.8" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="131.002" y="400" width="248.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="131.002" y="400" width="248.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="255.352" y="420">Location</text>
+    <rect style="fill: #ffffff" x="131.002" y="428" width="248.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="131.002" y="428" width="248.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="133.502" y="441.2"> position</text>
+    <rect style="fill: #ffffff" x="131.002" y="448" width="248.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="131.002" y="448" width="248.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="133.502" y="461.2">+storeProduct(product:Product)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="133.502" y="477.2">+removeProduct(product:Product)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="151.002" y="570" width="148.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="151.002" y="570" width="148.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="225.302" y="590">Product</text>
+    <rect style="fill: #ffffff" x="151.002" y="598" width="148.6" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="151.002" y="598" width="148.6" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153.502" y="611.2"> text: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153.502" y="627.2"> buyPrice: double</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153.502" y="643.2"> sellPrice: double</text>
+    <rect style="fill: #ffffff" x="151.002" y="650" width="148.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="151.002" y="650" width="148.6" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="564.004" y="617" width="194.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="564.004" y="617" width="194.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="661.404" y="637">OpenInvoice</text>
+    <rect style="fill: #ffffff" x="564.004" y="645" width="194.8" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="564.004" y="645" width="194.8" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="566.504" y="658.2"> collProducts: Product[]</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="566.504" y="674.2"> person: Person</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="566.504" y="690.2"> amount: Integer</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="566.504" y="706.2"> dueDate: Date</text>
+    <rect style="fill: #ffffff" x="564.004" y="713" width="194.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="564.004" y="713" width="194.8" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="435.306" y="436" width="76.65" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="435.306" y="436" width="76.65" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="473.631" y="456">Supplier</text>
+    <rect style="fill: #ffffff" x="435.306" y="464" width="76.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="435.306" y="464" width="76.65" height="8"/>
+    <rect style="fill: #ffffff" x="435.306" y="472" width="76.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="435.306" y="472" width="76.65" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="598.306" y="437" width="125.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="598.306" y="437" width="125.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="661.056" y="457">Employee</text>
+    <rect style="fill: #ffffff" x="598.306" y="465" width="125.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="598.306" y="465" width="125.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="600.806" y="478.2"> boss: Employee</text>
+    <rect style="fill: #ffffff" x="598.306" y="485" width="125.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="598.306" y="485" width="125.5" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="837.308" y="441" width="87.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="837.308" y="441" width="87.45" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="881.033" y="461">Customer</text>
+    <rect style="fill: #ffffff" x="837.308" y="469" width="87.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="837.308" y="469" width="87.45" height="8"/>
+    <rect style="fill: #ffffff" x="837.308" y="477" width="87.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="837.308" y="477" width="87.45" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="436.26" y="263" width="148.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="436.26" y="263" width="148.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="510.56" y="283">Person</text>
+    <rect style="fill: #ffffff" x="436.26" y="291" width="148.6" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="436.26" y="291" width="148.6" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="438.76" y="304.2"> firstName: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="438.76" y="320.2"> surname: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="438.76" y="336.2"> address: String</text>
+    <rect style="fill: #ffffff" x="436.26" y="343" width="148.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="436.26" y="343" width="148.6" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="510.56,369.742 510.56,401.753 473.631,401.753 473.631,436 "/>
+    <polygon style="fill: #ffffff" points="518.56,369.742 510.56,353.742 502.56,369.742 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="518.56,369.742 510.56,353.742 502.56,369.742 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="510.56,369.742 510.56,401.999 661.056,401.999 661.056,436.493 "/>
+    <polygon style="fill: #ffffff" points="518.56,369.742 510.56,353.742 502.56,369.742 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="518.56,369.742 510.56,353.742 502.56,369.742 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="510.56,369.742 510.56,404 881.033,404 881.033,440.495 "/>
+    <polygon style="fill: #ffffff" points="518.56,369.742 510.56,353.742 502.56,369.742 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="518.56,369.742 510.56,353.742 502.56,369.742 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="661.056,511.236 661.056,534 752.314,534 752.314,465 724.297,465 "/>
+    <polygon style="fill: #ffffff" points="669.056,511.236 661.056,495.236 653.056,511.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="669.056,511.236 661.056,495.236 653.056,511.236 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="706.685" y="530">0..1</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="229.402,303.507 229.402,351.501 255.352,351.501 255.352,399.495 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="233.402" y="315.507">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="259.352" y="395.495">1..n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="255.352,484.505 255.352,527 225.302,527 225.302,569.495 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="259.352" y="496.505">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="229.302" y="565.495">0..n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="300.111,614 431.805,614 431.805,669 563.498,669 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="304.111" y="610">1..n</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="559.498" y="665">0..1</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="473.631,480.505 473.631,548.753 661.404,548.753 661.404,617 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="477.631" y="492.505">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="665.404" y="613">0..n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="836.803,463 798.056,463 798.056,669 759.31,669 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="832.803" y="459">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="763.31" y="665">0..n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="833.26" y="514" width="179.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="833.26" y="514" width="179.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="922.96" y="534">TimeTracking</text>
+    <rect style="fill: #ffffff" x="833.26" y="542" width="179.4" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="833.26" y="542" width="179.4" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="835.76" y="555.2"> holidays: Integer</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="835.76" y="571.2"> sickDays: Integer</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="835.76" y="587.2"> workingHours: Integer</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="835.76" y="603.2"> ......</text>
+    <rect style="fill: #ffffff" x="833.26" y="610" width="179.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="833.26" y="610" width="179.4" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="724.314,465 778.534,465 778.534,566 832.754,566 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="728.314" y="461">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="828.754" y="562">1</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="718.502" y="275" width="371.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="718.502" y="275" width="371.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="904.452" y="295">Accounting</text>
+    <rect style="fill: #ffffff" x="718.502" y="303" width="371.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="718.502" y="303" width="371.9" height="8"/>
+    <rect style="fill: #ffffff" x="718.502" y="311" width="371.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="718.502" y="311" width="371.9" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="721.002" y="324.2">+purchase(supplier:Supplier,products:Product[])</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="721.002" y="340.2">+sale(customer:Customer,products:Product[])</text>
+  </g>
+</svg>
