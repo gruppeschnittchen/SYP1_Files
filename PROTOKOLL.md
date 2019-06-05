@@ -35,3 +35,39 @@
 @joestr: Business-Use-Case-Diagramm bestätigen
 
 @xSomethingWentWrong: GUI-Design
+
+## 2019-05-22 13:35:45
+
+@thuraua: Klasendiagramm überarbeiten
+
+@lieglf: Business-Use-Case Diagramm bestätigen
+
+@paulk4633: Klassensigramm überarbeiten
+
+@joestr: Business-Use-Case-Diagramm bestätigen
+
+@xSomethingWentWrong: GUI-Design überarbeiten
+
+## 2019-05-29 14:01:31
+
+@thuraua: Klasendiagramm bestätigen
+
+@lieglf: Business-Use-Case Diagramm bestätigen
+
+@paulk4633: Klassensigramm bestätigen
+
+@joestr: Business-Use-Case-Diagramm bestätigen
+
+@xSomethingWentWrong: GUI-Design überarbeiten#
+
+## 2019-05-29 14:01:31
+
+@thuraua: Business-Use-Case Diagramm bestätigen
+
+@lieglf: Business-Use-Case Diagramm bestätigen
+
+@paulk4633: Business-Use-Case Diagramm bestätigen
+
+@joestr: Business-Use-Case-Diagramm bestätigen
+
+@xSomethingWentWrong: GUI-Design bestätigen
