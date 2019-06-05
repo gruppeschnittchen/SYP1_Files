@@ -60,7 +60,7 @@
 
 @xSomethingWentWrong: GUI-Design überarbeiten#
 
-## 2019-05-29 14:01:31
+## 2019-06-05 14:01:31
 
 @thuraua: Business-Use-Case Diagramm bestätigen
 
