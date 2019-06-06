@@ -1,5 +1,90 @@
 # Protokoll
 
+## 2019-03-14
+
+@thuraua: Offene Fragen
+
+@lieglf: Offene Fragen
+
+@paulk4633: Offene Fragen
+
+@joestr: Offene Fragen
+
+@xSomethingWentWrong: Offene Fragen
+
+
+## 2019-03-14
+
+@thuraua: Klassendiagramm
+
+@lieglf: Offene Fragen
+
+@paulk4633: Klassendiagramm
+
+@joestr: Offene Fragen
+
+@xSomethingWentWrong: Klassendiagramm
+
+## 2019-03-28
+
+@thuraua: Klassendiagramm
+
+@lieglf: Offene Fragen
+
+@paulk4633: Klassendiagramm
+
+@joestr: Offene Fragen
+
+@xSomethingWentWrong: GUI-Design
+
+## 2019-04-11
+
+@thuraua: Klassendiagramm
+
+@lieglf: Klassendiagramm
+
+@paulk4633: Klassendiagramm
+
+@joestr: Dokumentation
+
+@xSomethingWentWrong: GUI-Design
+
+## 2019-04-04
+
+@thuraua: Klassendiagramm
+
+@lieglf: Offene Fragen
+
+@paulk4633: Klassendiagramm
+
+@joestr: Dokumentation
+
+@xSomethingWentWrong: GUI-Design
+
+## 2019-04-11
+
+@thuraua: Klassendiagramm
+
+@lieglf: Offene Fragen
+
+@paulk4633: Klassendiagramm
+
+@joestr: Dokumentation
+
+@xSomethingWentWrong: GUI-Design
+
+## 2019-04-18
+
+@thuraua: Klassendiagramm
+
+@lieglf: Offene Fragen
+
+@paulk4633: Klassendiagramm
+
+@joestr: Dokumentation
+
+@xSomethingWentWrong: GUI-Design
+
 ## 2019-04-25 09:02:39
 
 @thuraua: Klassendiagramm
