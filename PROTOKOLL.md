@@ -37,18 +37,6 @@
 
 @xSomethingWentWrong: GUI-Design
 
-## 2019-04-11
-
-@thuraua: Klassendiagramm
-
-@lieglf: Klassendiagramm
-
-@paulk4633: Klassendiagramm
-
-@joestr: Dokumentation
-
-@xSomethingWentWrong: GUI-Design
-
 ## 2019-04-04
 
 @thuraua: Klassendiagramm
