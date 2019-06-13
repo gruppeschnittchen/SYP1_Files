@@ -144,3 +144,11 @@
 @joestr: Business-Use-Case-Diagramm bestätigen
 
 @xSomethingWentWrong: GUI-Design bestätigen
+
+## 2019-06-12 14:00:31
+
+TODO
+
+## 2019-06-13 15:11:53
+
+TODO
